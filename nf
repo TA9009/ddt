@@ -1,1 +1,4 @@
-
+primary key RvKXF4LwoXtcyke2yzdD+pxJGkNGeyBqJiqEYiibFHc=
+secondary key 6DHqxMn8jBbuRzqOw3w4kmuzpLUsU3QFKkzSVHePTIA=
+con str pr key HostName=IOT2000MBTCP.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=RvKXF4LwoXtcyke2yzdD+pxJGkNGeyBqJiqEYiibFHc=
+con str sec key HostName=IOT2000MBTCP.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=6DHqxMn8jBbuRzqOw3w4kmuzpLUsU3QFKkzSVHePTIA=
